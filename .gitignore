@@ -11,7 +11,7 @@ yarn-error.log
 /coverage
 
 # Build output
-/dist
+# /dist
 
 # Environment variables
 .env
